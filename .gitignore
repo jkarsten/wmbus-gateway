@@ -1,0 +1,13 @@
+# build output
+build/
+*.bin
+*.elf
+*.map
+
+# local files
+*.log
+sniffer.log
+.vscode/
+.idea/
+.DS_Store
+*.swp
